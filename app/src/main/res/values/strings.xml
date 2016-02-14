@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyLicCustomer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_newcustomer">New Customer</string>
+    <string name="nav_item_customerlist">Customer List</string>
+    <string name="nav_item_contact">Contact Us</string>
+    <string name="nav_item_about">About Us</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_newcustomer</item>
+        <item>@string/nav_item_customerlist</item>
+        <item>@string/nav_item_contact</item>
+        <item>@string/nav_item_about</item>
+    </string-array>
+
+    <string name="title_about">About Us</string>
+    <string name="title_contact">Contact Us</string>
+    <string name="title_newcustomer">Add New Customer</string>
+    <string name="title_home">Home</string>
+    <string name="title_customerlist">All Customers</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
